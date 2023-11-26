@@ -33,3 +33,7 @@ a
 {
     outline: none;
 }
+.but
+{
+    cursor: pointer;
+}
